@@ -1,4 +1,4 @@
-use jmc_tools::io::new_line;
+use jmc_tools::console::new_line;
 
 #[test]
 fn new_line_test() {
