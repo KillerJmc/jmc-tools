@@ -3,7 +3,11 @@ name = "jmc-tools"
 version = "0.0.1"
 authors = ["KillerJmc <1934497212@qq.com>"]
 description = "Utils for Rust daily coding."
+exclude = ["*.iml", ".*"]
+
 license = "MIT"
+readme = "README.md"
+repository = "https://github.com/KillerJmc/jmc-tools"
 edition = "2021"
 
 [dependencies]
