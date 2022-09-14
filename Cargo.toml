@@ -1,0 +1,9 @@
+[package]
+name = "jmc-tools"
+version = "0.0.1"
+authors = ["KillerJmc <1934497212@qq.com>"]
+description = "Utils for Rust daily coding."
+license = "MIT"
+edition = "2021"
+
+[dependencies]
