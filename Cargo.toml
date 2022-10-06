@@ -1,6 +1,6 @@
 [package]
 name = "jmc-tools"
-version = "0.0.2"
+version = "1.0.0"
 authors = ["KillerJmc <1934497212@qq.com>"]
 description = "Utils for Rust daily coding."
 edition = "2021"
